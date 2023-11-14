@@ -14,7 +14,7 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1500px;
     margin: 0 auto;
 }
 
@@ -45,11 +45,15 @@ body {
 
 .swiper-slide {
     background-color: #f6d5da;
-    border-radius: 30px;
-    margin: 0 10px;
+    border-radius: 20px;
 }
 
 .mySwiper-1 {
+    background-color: #f6d5da;
+    border-radius: 30px;
+}
+
+.mySwiper-2 {
     background-color: #f6d5da;
     border-radius: 30px;
 }
@@ -302,11 +306,11 @@ body {
     display: flex;
     align-items: center;
     padding: 25px;
-    margin: 0 10px;
+    margin: 0 5px;
 }
 
 .product-img {
-    width: 50%;
+    width: 35%;
     text-align: left;
 }
 
@@ -324,8 +328,8 @@ body {
 }
 
 .product-img img {
-    width: 250px;
-    height: 220px;
+    width: 150px;
+    height: 120px;
 }
 
 .product-txt {
